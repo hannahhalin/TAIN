@@ -1,0 +1,6 @@
+Found 379 folders/samples in UCF-101 dataset...
+Loading checkpoint checkpoint/TAIN/model_best.pth...
+Evaluating for epoch = 120
+   Images processed: 379/379 32.662s   
+   Loss: 0.011105, PSNR: 35.206767, SSIM: 0.969188
+

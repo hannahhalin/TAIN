@@ -1,0 +1,6 @@
+[extreme] Test dataset has 310 triplets
+Loading checkpoint checkpoint/TAIN/model_best.pth...
+Evaluating for epoch = 120
+   Images processed: 310/310 246.479s   
+   Loss: 0.034732, PSNR: 24.795068, SSIM: 0.852449
+

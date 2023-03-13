@@ -1,0 +1,5 @@
+Loading checkpoint checkpoint/TAIN/model_best.pth...
+Evaluating for epoch = 120
+   Images processed: 12/12 6.350s   
+   Loss: 0.009283, PSNR: 36.281849, SSIM: 0.981287, IE: 2.346380
+
